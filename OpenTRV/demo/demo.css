@@ -1,8 +1,5 @@
-body {
-    font-family: sans-serif;
-}
-
 #demo {
+    font-family: sans-serif;
     font-weight: bold;
     height:800px;
     width:800px;
